@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+rainflow
+matplotlib
+openpyxl
